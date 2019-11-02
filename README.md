@@ -1,1 +1,13 @@
 # Image-Processing
+- Gray
+- Binary
+- MaxMinBinary
+- ROIarea
+- Brightup
+- BlockMask
+- Border
+- Reverse
+- Histogram
+- Bright_LUT
+- Stretch
+- Equalization
