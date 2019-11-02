@@ -1,0 +1,67 @@
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe.config
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.pdb
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csprojAssemblyReference.cache
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Form1.resources
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Properties.Resources.resources
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.GenerateResource.cache
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.CoreCompileInputs.cache
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.exe
+c:\users\atom_project\source\repos\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.pdb
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe.config
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.pdb
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Form1.resources
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Properties.Resources.resources
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.GenerateResource.cache
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.exe
+C:\Users\Samsung\Desktop\3학년 2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.pdb
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe.config
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.pdb
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csprojResolveAssemblyReference.cache
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Form1.resources
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Properties.Resources.resources
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.GenerateResource.cache
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.CoreCompileInputs.cache
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.exe
+C:\Users\King\Documents\카카오톡 받은 파일\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.pdb
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe.config
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.pdb
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csprojResolveAssemblyReference.cache
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Form1.resources
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Properties.Resources.resources
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.GenerateResource.cache
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.CoreCompileInputs.cache
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.exe
+C:\King\대학자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.pdb
+E:\대학관련자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe.config
+E:\대학관련자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe
+E:\대학관련자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.pdb
+E:\대학관련자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csprojResolveAssemblyReference.cache
+E:\대학관련자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Form1.resources
+E:\대학관련자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Properties.Resources.resources
+E:\대학관련자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.GenerateResource.Cache
+E:\대학관련자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.exe
+E:\대학관련자료\2학년2학기\C#\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.pdb
+E:\대학관련자료\3학년2학기\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe.config
+E:\대학관련자료\3학년2학기\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe
+E:\대학관련자료\3학년2학기\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.pdb
+E:\대학관련자료\3학년2학기\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csprojResolveAssemblyReference.cache
+E:\대학관련자료\3학년2학기\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Form1.resources
+E:\대학관련자료\3학년2학기\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Properties.Resources.resources
+E:\대학관련자료\3학년2학기\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.GenerateResource.Cache
+E:\대학관련자료\3학년2학기\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.exe
+E:\대학관련자료\3학년2학기\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.pdb
+D:\노트북에옮길파일\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe.config
+D:\노트북에옮길파일\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.exe
+D:\노트북에옮길파일\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\bin\Debug\영상처리_공부자료.pdb
+D:\노트북에옮길파일\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csprojResolveAssemblyReference.cache
+D:\노트북에옮길파일\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Form1.resources
+D:\노트북에옮길파일\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.Properties.Resources.resources
+D:\노트북에옮길파일\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.csproj.GenerateResource.cache
+D:\노트북에옮길파일\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.exe
+D:\노트북에옮길파일\영상처리\영상처리 학기말 과제\영상처리_공부자료\영상처리_공부자료\obj\Debug\영상처리_공부자료.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "영상처리_공부자료", "영상처리_공부자료\영상처리_공부자료.csproj", "{144A6BCD-445B-4C61-9E2B-B1739FB24A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144A6BCD-445B-4C61-9E2B-B1739FB24A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144A6BCD-445B-4C61-9E2B-B1739FB24A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144A6BCD-445B-4C61-9E2B-B1739FB24A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144A6BCD-445B-4C61-9E2B-B1739FB24A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B75C80-1970-479E-83A3-D80C8FEE7835}
+	EndGlobalSection
+EndGlobal
