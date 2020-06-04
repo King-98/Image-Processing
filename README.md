@@ -14,8 +14,10 @@
 
 ## result
 - Gray
+#
 ![Gray](https://user-images.githubusercontent.com/56337609/83702926-0aaaa380-a649-11ea-8dff-25b9158066eb.PNG)
 - Binary
+#
 ![Binary](https://user-images.githubusercontent.com/56337609/83702940-1a29ec80-a649-11ea-97b8-82532820c4f7.PNG)
 - BrightUp
 ![BrightUp](https://user-images.githubusercontent.com/56337609/83703057-62e1a580-a649-11ea-877d-4458efacd21f.PNG)
